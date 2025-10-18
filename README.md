@@ -1,0 +1,2 @@
+# Vehicle-Idle-Speed-Control-System-Modeling-Identification-PID-Design-MATLAB-Simulink-
+This project models and controls the idle speed of a fuel-powered internal combustion engine (ICE). The work includes physics-based modeling of the air intake, manifold pressure, torque generation, and friction losses, followed by system identification and PID controller design to maintain a stable idle speed under varying loads.
